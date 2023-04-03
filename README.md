@@ -7,7 +7,7 @@ This is a repository for the code of this published paper on the use of ANN to c
 
 ## FEATURE EXTRACTION
 
-MFCCs extracted using the following Python libraries
+MFCCs extracted from the audio files, cleaned, and transformed into csv using the following Python libraries
 
 * scipy
 * python_speech_features
