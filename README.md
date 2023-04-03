@@ -9,18 +9,18 @@ This is a repository for the code of this published paper on the use of ANN to c
 
 MFCCs extracted using the following Python libraries
 
-...* scipy
-...* python_speech_features
-...* regex
-...* pandas
-...* numpy
+* scipy
+* python_speech_features
+* regex
+* pandas
+* numpy
 
 ## NEURAL NETWORK TRAINING
 
 ANN was trained and evaluated using the following Python libraries
 
-...* keras
-...* scikit-learn
-...* matplotlib
+* keras
+* scikit-learn
+* matplotlib
 
 ### Results of this experiment was published in an AI Journal: https://doi.org/10.4114/intartif.vol21iss62pp134-144
